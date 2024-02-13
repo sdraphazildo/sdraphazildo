@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**sdraphazildo/sdraphazildo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Seja bem vindo ao meu GitHub 😎
 
-Here are some ideas to get you started:
+## Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" title="AzureSQL" alt="AzureSQL" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" title="SQLdeveloper" alt="SQLdeveloper" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+
+<div align = "left">
+<img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sdraphazildo&show_icons=true&theme=bear&count_private=true"/>
+<img height = "170em" src="https://github-readme-stats.vercel.app/api?username=sdraphazildo&show_icons=true&show_icons=true&theme=bear&count_private=true" />
+</div>
