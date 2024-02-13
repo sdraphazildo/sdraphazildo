@@ -1,3 +1,4 @@
+<img src = "famoso_analista_de_dados.gif" width = "480px" align = "right">
 
 # Seja bem vindo ao meu GitHub 😎
 
@@ -6,7 +7,7 @@
 
 
 
-
+## Tecnologias utilizadas
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
