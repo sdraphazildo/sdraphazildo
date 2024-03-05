@@ -3,7 +3,10 @@
 # Seja bem vindo ao meu GitHub 😎
 
 ## Sobre mim
-Analista de dados (Futuro Engenheiro de dados)
+ - Analista de dados (Futuro Engenheiro de dados)
+ - Mais de 3 anos de experiencia na area
+ - Tenho 26 anos
+ - Aqui voce vera alguns dos meus projetos feitos, espero que goste
 
 ## Linguagens e Tecnologias utilizadas
 <div>
